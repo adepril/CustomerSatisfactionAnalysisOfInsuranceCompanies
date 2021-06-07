@@ -14,6 +14,14 @@ https://raw.githubusercontent.com/adepril/datasets/main/insurance-reviews-france
 Prerequisite
 - Python => 3.6
 - pip install streamlit
+- pip install numpy
+- pip install pandas
+- pip install nltk
+- pip install spacy
+- pip install textblob
+- pip install textblob_fr
+- pip install plotly
+- pip install matplotlib
 
 Copy-Paste this line below on Command Prompt
 
