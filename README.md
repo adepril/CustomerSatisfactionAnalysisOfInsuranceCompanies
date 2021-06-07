@@ -3,10 +3,9 @@
 ### Customer satisfaction analysis of French insurance companies from 2008 to 2020
 
 
-
-<br>
 note: the dataset goes until mars 2020.
-<br>
+<p>
+  
 Dataset : 
 https://raw.githubusercontent.com/adepril/datasets/main/insurance-reviews-france-Comments.csv
 
