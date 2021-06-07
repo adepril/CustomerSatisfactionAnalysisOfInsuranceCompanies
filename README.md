@@ -1,12 +1,11 @@
 # Streamlit Sentiment Analysis
 
-### Customer satisfaction analysis of French insurance companies.
+### Customer satisfaction analysis of French insurance companies from 2008 to 2020
 
 
 
-Analyse des Avis des clients de compagnies d'assurance françaises de 2008 à 2020.
 <br>
-note: le jeu de données s'arrete en mars 2020.
+note: the dataset goes until mars 2020.
 
 Dataset : 
 https://raw.githubusercontent.com/adepril/datasets/main/insurance-reviews-france-Comments.csv
