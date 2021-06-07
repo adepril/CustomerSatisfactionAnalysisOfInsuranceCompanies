@@ -22,6 +22,10 @@ Prerequisite
 - pip install textblob_fr
 - pip install plotly
 - pip install matplotlib
+  
+  or
+  
+  pip install -r requirements.txt  (this commande will install all packages)
 
 Copy-Paste this line below on Command Prompt
 
