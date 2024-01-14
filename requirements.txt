@@ -5,7 +5,7 @@ spacy==3.0.6
 textblob==0.15.3
 textblob_fr==0.2.0
 plotly==4.14.3
-streamlit==0.82.0
+streamlit==1.30.0
 matplotlib==3.3.4
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
 pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
