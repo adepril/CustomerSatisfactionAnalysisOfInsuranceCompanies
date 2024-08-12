@@ -1,6 +1,6 @@
 numpy==1.20.1
 pandas==1.2.4
-nltk==3.8.1
+nltk==3.8.2
 spacy==3.0.6
 textblob==0.15.3
 textblob_fr==0.2.0
